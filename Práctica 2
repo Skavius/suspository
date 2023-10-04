@@ -6,3 +6,36 @@ fun main() {
     var num=1.1
     println("${num::class.simpleName}")
 }
+
+fun main() {
+    println("Programación Móvil")
+    println("Práctica #2")
+    println("Chávez Moreno Aldo Francisco")
+    println("6NV60")
+    var num : Float= 1.1F
+    println(num)
+    
+    var numd = num.toDouble()
+    
+    println("${num::class.simpleName}")
+    println("${numd::class.simpleName}")
+}
+
+fun main() {
+    println("Programación Móvil")
+    println("Práctica #2")
+    println("Chávez Moreno Aldo Francisco")
+    println("6NV60")
+    var num : Float= 1.1F
+    println(num)
+    
+    var numd = num.toDouble()
+    
+    println("${num::class.simpleName}")
+    println("${numd::class.simpleName}")
+    
+    val pi=3.1416
+    var resultado = pi * (2*num)
+    println("El Perimetro Del Círculo es ${resultado}")
+}
+
