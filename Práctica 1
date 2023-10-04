@@ -1,0 +1,10 @@
+fun main() {
+    
+    print("Hello, UPIICSA!!!")
+    print(", Está es la Práctica #1")
+    println()
+    println("Programación Móvil")
+    println("Práctica #1")
+    println("Chávez Moreno Aldo Francisco")
+    println("Hello, UPIICSA!!!")
+}
