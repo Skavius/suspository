@@ -20,4 +20,4 @@ open class Enemy (val name: String, val strength:Int){
     }
 }
 
-//
+// Agregar open class para que se convierta en super clase
